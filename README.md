@@ -1,4 +1,6 @@
-# task10semana13angulardirectives
+## 🐱task 10 semana 13 angular directives 🐶
+
+LINK MI TRABAJO https://stackblitz.com/edit/task10semana13angulardirectives?file=src%2Fapp%2Fapp.component.ts
 
 [Edit on StackBlitz ⚡️](https://stackblitz.com/edit/task10semana13angulardirectives)
 
