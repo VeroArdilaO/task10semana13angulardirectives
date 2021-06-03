@@ -1,0 +1,13 @@
+<h1>{{title}}</h1>
+<button style="border-radius:10px, background-color:blue"(click)= 'happy=!happy'>😀</button>
+<section  *ngIf="happy">
+  <img style="width:100px" title="Happy" src="https://i.pinimg.com/originals/f2/ce/c9/f2cec98f06e8f66ff0bcfb2ffdb413eb.jpg" />
+</section>
+<button (click) = 'sad=!sad'>😢</button>
+<section  *ngIf="sad">
+  <img style="width:100px" title="Sad" src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/sad-dog-1537347496.jpg?resize=480:*" />
+</section>
+<button (click) = 'crazy=!crazy'>🤪</button>
+<section  *ngIf="crazy">
+  <img  style="width:100px" title="Crazy" src="https://townsquare.media/site/757/files/2014/08/names.jpg" />
+</section>

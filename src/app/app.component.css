@@ -1,0 +1,16 @@
+p {
+  font-family: Lato;
+  
+}
+h1 {
+    color:#7209b7;
+    text-align: center;
+    font-size: 2rem; 
+    -webkit-text-stroke:1px black; font-family:Impact Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button {
+margin-left:60px;
+ background-color:#bdb2ff;
+ border-radius: 10px;
+ padding:10px;
+}
